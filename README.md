@@ -9,3 +9,5 @@ A Thirukkural teller - NLP using Tensorflow
 * Ok coming to the technical part, initially I have web-scraped all the 1330 thirukkural from an online website - [Project Madurai](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0001.html). Then I have tokenized all the 1330*7 words and trained their token sequence using deep learning. LSTM is used to transport memory to the next state. I know, literally I am gonna test with the training data, so obviously its accuracy will be high.
 
 * I just followed the Tensorflow in practice specialization from coursera and did this project from what I have learnt there.
+
+* Video demo - [click here](https://www.youtube.com/watch?v=5lEv8CLR13Y)
